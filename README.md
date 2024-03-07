@@ -10,12 +10,14 @@
 - Convert videos coming out of MikuMikuDance from AVI/UtVideo or AVI/raw format to MP4 to reduce their size and quickly upload them to Youtube or other social networks.
 - In addition to this conversion, it allows you to add sound (wave or mp4) to the video by specifying the offset frame, useful if the animation does not start in frame 0.
 - Convert MP4 or other videos (avi, mp4, webm, mkv) from a YtDL type download to the AVI/msvideo format which allows them to be displayed in the background or on a screen in MikuMikuDance.
-- Extract sound in 44,200 Hz wave for MikuMikuDance.
-- Browse the video in frame by frame mode, with a zoom of 100% to 2000% and move the area to inspect.
+- Extract sound in 44,100 Hz wave for MikuMikuDance.
+- Browse the video in frame by frame mode, with a zoom of 100% to 2000% (4000% for 4K) and move the area to inspect.
 - Play video in slow motion up to about 2 Fps and fast motion up to 60 Fps.
 - Displays position information in frame number @ 30 Fps corresponding to MikuMikuDance frames.
   
 Watch the presentation video… (soon ;o)
+
+Help : [HelpPage](https://github.com/LauraKami/MikuVideoDL/wiki/HelpPage).
 
 ## MikuVideo icon
 ![MikuVideo_luka](https://github.com/LauraKami/MikuVideoDL/assets/102795992/6173e82c-3800-4037-a028-27af93446e5d)
