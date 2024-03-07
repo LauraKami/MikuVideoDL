@@ -35,6 +35,6 @@ Watch the presentation video… (soon ;o)
 ## MikuVideo uses an external installation of FFMpeg for conversions, it is installed by MikuInstaller.
 If you install it standalone, the software works to inspect videos but not to convert them.
 
-## License: MikuVideo is made in France.
+## Licence: MikuVideo is made in France.
 MikuVideo is subject to French copyright. [DA.fr] 2022 MikuMikuDance.fr. [https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France](https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France)
 For the moment, it is not open source, installation is done via MikuInstaller.
