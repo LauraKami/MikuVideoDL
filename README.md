@@ -22,21 +22,24 @@ Help : [HelpPage](https://github.com/LauraKami/MikuVideoDL/wiki/HelpPage).
 ## MikuVideo icon
 ![MikuVideo_luka](https://github.com/LauraKami/MikuVideoDL/assets/102795992/6173e82c-3800-4037-a028-27af93446e5d)
 - Pose & artistic choice: @Yhozai [https://www.instagram.com/yhozai/](https://www.instagram.com/yhozai/)
-- Image rendered by MikuMikuDance (c)Yu Higochi;
-- 3D Model: Luka created by stylist Shyuugah, TDA base [Shyuugah'Luka on DevianArt](https://www.deviantart.com/shyuugah/art/MMD-Model-DL-Miku-Luka-and-Gumi-UP-REQUEST-932295213)
-- Icon converted by Greenfish Icon Editor Pro 4.2 (freeware)
+- Image rendered by MikuMikuDance (c)Yu Higochi [MikuInstaller](https://mikumikudance.fr/miku_installer/)
+- 3D Model: Luka created by MMD stylist Shyuugah, TDA base [Shyuugah'Luka on DevianArt](https://www.deviantart.com/shyuugah/art/MMD-Model-DL-Miku-Luka-and-Gumi-UP-REQUEST-932295213)
+- Icon converted by [Greenfish Icon Editor Pro 4.2](http://greenfishsoftware.org/) (RIP? freeware)
 
 ## MikuVideo software
 - Programmer: Laura from [MikuMikuDance.fr](https://mikumikudance.fr/)
 - Made with Visual Studio free edition and C#
 - Libraries
-   - Video player: SuRGeoNix/Flyleaf (LGPL) [https://github.com/SuRGeoNix/Flyleaf](https://github.com/SuRGeoNix/Flyleaf)
+   - Video player: SuRGeoNix/Flyleaf (LGPL) [https://github.com/SuRGeoNix/Flyleaf](https://github.com/SuRGeoNix/Flyleaf)<br>Thanks to him for his help and patience in answering my beginner questions.
    - MaterialDesignTheme (MIT) [https://github.com/MaterialDesignInXAML](https://github.com/MaterialDesignInXAML)
    - FFMpeg (LGPL) [https://ffmpeg.org/](https://ffmpeg.org/)
 
-## MikuVideo uses an external installation of FFMpeg for conversions, it is installed by MikuInstaller.
+## MikuVideo uses an external installation of FFMpeg for conversions, it is installed by [MikuInstaller](https://mikumikudance.fr/miku_installer/).
 If you install it standalone, the software works to inspect videos but not to convert them.
 
 ## Licence: MikuVideo is made in France.
 MikuVideo is subject to French copyright. [DA.fr] 2022 MikuMikuDance.fr. [https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France](https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France)
 For the moment, it is not open source, installation is done via MikuInstaller.
+
+[Licence En](https://github.com/LauraKami/MikuVideoDL/wiki/Licence)
+
