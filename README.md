@@ -35,6 +35,8 @@ Help : [HelpPage](https://github.com/LauraKami/MikuVideoDL/wiki/HelpPage).
    - FFMpeg (LGPL) [https://ffmpeg.org/](https://ffmpeg.org/)
 
 ## MikuVideo uses an external installation of FFMpeg for conversions, it is installed by [MikuInstaller](https://mikumikudance.fr/miku_installer/).
+Video : https://youtu.be/Q5Fkyhu3Ey0
+
 If you install it standalone, the software works to inspect videos but not to convert them.
 
 ## Licence: MikuVideo is made in France.
