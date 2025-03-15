@@ -34,13 +34,13 @@ Help : [HelpPage](https://github.com/LauraKami/MikuVideoDL/wiki/HelpPage).
    - MaterialDesignTheme (MIT) [https://github.com/MaterialDesignInXAML](https://github.com/MaterialDesignInXAML)
    - FFMpeg (LGPL) [https://ffmpeg.org/](https://ffmpeg.org/)
 
-## MikuVideo uses an external installation of FFMpeg for conversions, it is installed by [MikuInstaller](https://mikumikudance.fr/miku_installer/).
+## MikuVideo 1.0.2 include ffmpeg for convert video
 Video : https://youtu.be/Q5Fkyhu3Ey0
 
-If you install it standalone, the software works to inspect videos but not to convert them.
+New v1.0.2 : If you install it standalone, the software works to inspect videos and convert them.
 
 ## Licence: MikuVideo is made in France.
-MikuVideo is subject to French copyright. [DA.fr] 2022 MikuMikuDance.fr. [https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France](https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France)
+MikuVideo is subject to French copyright. [DA.fr] 2022-2025 MikuMikuDance.fr. [https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France](https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France)
 For the moment, it is not open source, installation is done via MikuInstaller.
 
 [Licence En](https://github.com/LauraKami/MikuVideoDL/wiki/Licence)
