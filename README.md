@@ -15,9 +15,10 @@
 - Play video in slow motion up to about 2 Fps and fast motion up to 60 Fps.
 - Displays position information in frame number @ 30 Fps corresponding to MikuMikuDance frames.
   
-Watch the presentation video… (soon ;o)
+## Watch the presentation video…
+  [![MikuVideo presentation Video](https://img.youtube.com/vi/zJWyRSODmuw/0.jpg)](https://www.youtube.com/watch?v=zJWyRSODmuw)
 
-Help : [HelpPage](https://github.com/LauraKami/MikuVideoDL/wiki/HelpPage).
+## Help : [HelpPage](https://github.com/LauraKami/MikuVideoDL/wiki/HelpPage).
 
 ## MikuVideo icon
 ![MikuVideo_luka](https://github.com/LauraKami/MikuVideoDL/assets/102795992/6173e82c-3800-4037-a028-27af93446e5d)
@@ -34,10 +35,10 @@ Help : [HelpPage](https://github.com/LauraKami/MikuVideoDL/wiki/HelpPage).
    - MaterialDesignTheme (MIT) [https://github.com/MaterialDesignInXAML](https://github.com/MaterialDesignInXAML)
    - FFMpeg (LGPL) [https://ffmpeg.org/](https://ffmpeg.org/)
 
-## MikuVideo 1.0.2 include ffmpeg for convert video
-Video : https://youtu.be/Q5Fkyhu3Ey0
-
-New v1.0.2 : If you install it standalone, the software works to inspect videos and convert them.
+## MikuVideo versions
+- v1.0.1 : Need external installtion of FFmpeg by Miku_Installer
+- v1.0.2 : version with FFmpeg 7.1.1, unfortunately, it is not appreciated by the Ms Defender antivirus...
+- v1.0.3 : The latest version of ffmpeg is downloaded and installed with MikuVideo.
 
 ## Licence: MikuVideo is made in France.
 MikuVideo is subject to French copyright. [DA.fr] 2022-2025 MikuMikuDance.fr. [https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France](https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France)
