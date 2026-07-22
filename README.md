@@ -1,48 +1,42 @@
-# MikuVideo is a tool for MikuMikuDance users.
+# 🎬 MikuVideo - MMD Video Tool & Converter for beginner
 
-## It is intended for beginners and young PC users to facilitate the use of the MikuMikuDance software.
+> **MikuVideo** is a modern video tool designed specifically for **MikuMikuDance (MMD)** users. It solves MMD's biggest pain point: the massive uncompressed AVI files produced after rendering.
 
+---
 
-![image](https://github.com/LauraKami/MikuVideoDL/assets/102795992/0e3c3634-ba82-4fe1-bda6-78e9fff92d53)
+## 📦 Downloads
 
+1. ⚡ **[Download via GitHub Releases](../../releases/latest)** *(Direct mirror)*
+2. 🌐 **[Official Page & Tutorials on MMDFr.fr](https://mmdfr.fr/tools/mikuvideo/)**
 
-## The main functions are:
-- Convert videos coming out of MikuMikuDance from AVI/UtVideo or AVI/raw format to MP4 to reduce their size and quickly upload them to Youtube or other social networks.
-- In addition to this conversion, it allows you to add sound (wave or mp4) to the video by specifying the offset frame, useful if the animation does not start in frame 0.
-- Convert MP4 or other videos (avi, mp4, webm, mkv) from a YtDL type download to the AVI/msvideo format which allows them to be displayed in the background or on a screen in MikuMikuDance.
-- Extract sound in 44,100 Hz wave for MikuMikuDance.
-- Browse the video in frame by frame mode, with a zoom of 100% to 2000% (4000% for 4K) and move the area to inspect.
-- Play video in slow motion up to about 2 Fps and fast motion up to 60 Fps.
-- Displays position information in frame number @ 30 Fps corresponding to MikuMikuDance frames.
-  
-## Watch the presentation video…
-  [![MikuVideo presentation Video](https://img.youtube.com/vi/zJWyRSODmuw/0.jpg)](https://www.youtube.com/watch?v=zJWyRSODmuw)
+---
 
-## Help : [HelpPage](https://github.com/LauraKami/MikuVideoDL/wiki/HelpPage).
+## ✨ Key Features
 
-## MikuVideo icon
-![MikuVideo_luka](https://github.com/LauraKami/MikuVideoDL/assets/102795992/6173e82c-3800-4037-a028-27af93446e5d)
-- Pose & artistic choice: @Yhozai [https://www.instagram.com/yhozai/](https://www.instagram.com/yhozai/)
-- Image rendered by MikuMikuDance (c)Yu Higochi [MikuInstaller](https://mikumikudance.fr/miku_installer/)
-- 3D Model: Luka created by MMD stylist Shyuugah, TDA base [Shyuugah'Luka on DevianArt](https://www.deviantart.com/shyuugah/art/MMD-Model-DL-Miku-Luka-and-Gumi-UP-REQUEST-932295213)
-- Icon converted by [Greenfish Icon Editor Pro 4.2](http://greenfishsoftware.org/) (RIP? freeware)
+* **🚀 AVI to MP4 Conversion (GPU Accelerated):** Dramatically reduce your MMD render file sizes (e.g., a 4 GB 4K AVI becomes ~40 MB MP4) with fast GPU processing.
+* **🎵 Audio Synchronization:** Sync WAV or MP4 audio tracks with a frame-offset control to align music perfectly, even if your animation doesn't start at frame 0.
+* **🔍 Frame-by-Frame Inspection:** Review your renders frame-by-frame with up to 2000% zoom (4000% for 4K) to spot clipping or rigging glitches before publishing.
+* **⏩ Advanced Playback Controls:** Includes slow motion (4 fps), fast forward (60 fps), and dual MMD frame count (@30fps) / timecode display.
+* **🎧 Audio Extraction:** Export audio from any video directly to WAV at 44,100 Hz (the format MMD requires for background music).
+* **🎥 Export to AVI for MMD / Motion Trace:** Convert any video format to an MMD-friendly AVI for use as a background video or virtual stage screen (*Motion Trace*).
 
-## MikuVideo software
-- Programmer: Laura from [MikuMikuDance.fr](https://mikumikudance.fr/)
-- Made with Visual Studio free edition and C#
-- Libraries
-   - Video player: SuRGeoNix/Flyleaf (LGPL) [https://github.com/SuRGeoNix/Flyleaf](https://github.com/SuRGeoNix/Flyleaf)<br>Thanks to him for his help and patience in answering my beginner questions.
-   - MaterialDesignTheme (MIT) [https://github.com/MaterialDesignInXAML](https://github.com/MaterialDesignInXAML)
-   - FFMpeg (LGPL) [https://ffmpeg.org/](https://ffmpeg.org/)
+---
 
-## MikuVideo versions
-- v1.0.1 : Need external installtion of FFmpeg by Miku_Installer
-- v1.0.2 : version with FFmpeg 7.1.1, unfortunately, it is not appreciated by the Ms Defender antivirus...
-- v1.0.3 : The latest version of ffmpeg is downloaded and installed with MikuVideo.
+## 🛠️ Technical Info
 
-## Licence: MikuVideo is made in France.
-MikuVideo is subject to French copyright. [DA.fr] 2022-2025 MikuMikuDance.fr. [https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France](https://fr.wikipedia.org/wiki/Droit_d%27auteur_en_France)
-For the moment, it is not open source, installation is done via MikuInstaller.
+* **Built with:** C# / .NET 8
+* **Engine:** FFmpeg (LGPL)
+* **System:** Windows 10 & 11 (Standalone, no prior MMD installation required)
 
-[Licence En](https://github.com/LauraKami/MikuVideoDL/wiki/Licence)
+---
+
+## 💬 Community & Bug Reporting
+
+Got feature requests or bugs to report?
+* 💬 Join us on **Discord** or visit [MMDFr.fr](https://mmdfr.fr/tools/mikuvideo/).
+* 🐛 Open an **Issue** directly on this GitHub repository.
+
+---
+
+*Developed with ❤️ by the MMDFr.fr Team*
 
